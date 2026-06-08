@@ -10,9 +10,7 @@ This repository contains anonymized code and configuration files for reproducing
 - `configs/`: tuned parameters, experiment configuration, and seeds.
 - `scripts/`: sample generation, output checks, and paper table generation.
 - `data/`: dataset instructions and optional small sample data.
-- `results/`: reported compact outputs and generated reproduction outputs.
-- `paper_tables/`: LaTeX tables used in the paper.
-- `docs/`: reproducibility notes and artifact checklist.
+
 
 ## Installation
 
