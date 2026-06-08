@@ -57,7 +57,7 @@ bash run_reproduce.sh
 
 ## Main Paper Configuration
 
-- `N=50`
+- `N=90`
 - `T=3600`
 - `negative_penalty_ratio=0.25`
 - `candidate_pool=logged_session`
@@ -65,8 +65,8 @@ bash run_reproduce.sh
 - `max_students=100`
 - `max_sessions=300`
 - `n_runs=3`
-- `dkt_epochs=10`
-- `gkt_epochs=10`
+- `dkt_epochs=30`
+- `gkt_epochs=30`
 
 ## Models Compared
 
