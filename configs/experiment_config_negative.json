@@ -1,0 +1,15 @@
+{
+  "dataset": "data/fixedelo_bot_synthetic_dataset.csv",
+  "mode": "final",
+  "negative_marking": true,
+  "negative_penalty_ratio": 0.25,
+  "candidate_pool": "logged_session",
+  "max_students": 100,
+  "max_sessions": 300,
+  "max_questions": 50,
+  "n_runs": 3,
+  "dkt_epochs": 10,
+  "gkt_epochs": 10,
+  "seed": 42,
+  "mars_params": "configs/mars_timebudget_negative_params.json"
+}
