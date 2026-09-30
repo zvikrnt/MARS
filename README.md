@@ -1,6 +1,6 @@
 # MARS Reproducibility Repository
 
-This repository contains anonymized code and configuration files for reproducing the experiments in the paper:
+This repository contains code and configuration files for reproducing the experiments in the paper:
 
 **"MARS: A Momentum-Aware Adaptive Rating System for Personalized Assessment"**
 
@@ -96,9 +96,6 @@ Main generated outputs:
 - All policies use the same candidate pool and routing objective.
 - Only the probability estimator differs across KT baselines.
 
-## Double-Blind Anonymity
-
-This repository is anonymized for peer review. Author-identifying metadata, local paths, and institution names have been removed.
 
 
 
